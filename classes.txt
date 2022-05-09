@@ -1,0 +1,80 @@
+Orang
+Sepeda
+Mobil
+Sepeda motor
+aeroplane
+Bus
+Kereta
+Truk
+boat
+traffic light
+fire hydrant
+stop sign
+parking meter
+bench
+Burung
+Kucing
+Anjing
+Kuda
+Domba
+Sapi
+Gajah
+Beruang
+Zebra
+Jerapah
+Tas punggung
+Payung
+Handbag
+Dasi
+Suitcase
+Frisbee
+Skis
+Papan seluncur salju
+sports ball
+Layangan
+baseball bat
+baseball glove
+skateboard
+surfboard
+tennis racket
+bottle
+wine glass
+cup
+fork
+knife
+spoon
+bowl
+banana
+apple
+sandwich
+orange
+broccoli
+carrot
+hot dog
+pizza
+donut
+cake
+chair
+sofa
+pottedplant
+bed
+diningtable
+toilet
+tvmonitor
+laptop
+mouse
+remote
+keyboard
+cell phone
+microwave
+oven
+toaster
+sink
+refrigerator
+book
+clock
+vase
+scissors
+teddy bear
+hair drier
+toothbrush
